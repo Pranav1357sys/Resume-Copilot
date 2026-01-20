@@ -1,0 +1,6 @@
+# Python dependencies
+fastapi
+uvicorn
+pydantic
+pydantic-ai
+python-dotenv
